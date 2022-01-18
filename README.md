@@ -1,3 +1,3 @@
 # redhat
 
-<img src ="red.jpg">
+<img src ="red.jpeg">
